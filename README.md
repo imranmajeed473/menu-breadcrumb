@@ -1,5 +1,3 @@
-This is a WordPress plugin. [Official download available on wordpress.org](http://wordpress.org/extend/plugins/menu-breadcrumb/).
-
 # Menu Breadcrumb
 
 Generate a breadcrumb trail from a WordPress Menu
